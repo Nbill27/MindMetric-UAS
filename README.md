@@ -45,7 +45,7 @@ Ikuti langkah ini untuk menjalankan aplikasi di komputer lokal:
 
 1.  **Clone Repository ini:**
     ```bash
-    git clone [https://github.com/USERNAME_KAMU/MindMetric-UAS.git](https://github.com/USERNAME_KAMU/MindMetric-UAS.git)
+    [git clone [https://github.com/USERNAME_KAMU/MindMetric-UAS.git](https://github.com/USERNAME_KAMU/MindMetric-UAS.git)](https://github.com/Nbill27/MindMetric-UAS.git)
     cd MindMetric-UAS
     ```
 
